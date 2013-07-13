@@ -1,0 +1,9 @@
+ li .btn {
+     visibility: hidden;
+ }
+ li:hover .btn {
+     visibility: visible;
+ }
+
+ body { padding-top: 40px; 
+        background-color:#FFCC99;}
